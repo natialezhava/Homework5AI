@@ -1,0 +1,44 @@
+body {
+    background: rgb(72, 70, 70);
+}
+a {
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+body > h1 {
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    padding: 20px;
+    font-weight: bold;
+}
+nav {
+    background-color: rgb(93, 88, 88);
+    width: 100%;
+    padding: 10px;
+}
+nav > a {
+    color: white;
+}
+section {
+    background-color: white;
+    padding: 50px;
+}
+section > div > div > h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+footer > p {
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+.div1 {
+    display: inline-block;
+}
+.sidebar {
+    display: inline-block;
+    margin-left: 700px;
+}
